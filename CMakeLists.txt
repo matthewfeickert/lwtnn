@@ -258,4 +258,3 @@ install( FILES ${CMAKE_SOURCE_DIR}/cmake/lwtnnConfig.cmake
 # Local Variables:
 # cmake-tab-width: 3
 # End:
-
