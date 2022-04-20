@@ -14,7 +14,7 @@
 # If to add another test you'll probably have to edit this
 
 # Trained network to convert and test
-INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v8/unsplit-model.tgz
+INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v9/unsplit-model.tgz
 H5_MODEL=model.h5
 ARCH=architecture.json
 VARIABLES=inputs.json

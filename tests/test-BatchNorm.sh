@@ -13,7 +13,7 @@
 # If to add another test you'll probably have to edit this
 
 # Trained network to convert and test
-INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v2.1/BatchNorm.tgz
+INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v9/BatchNorm.tgz
 ARCH=ftag-arch.json
 VARIABLES=ftag-variables.json
 HDF5=weights/ftag-weights.h5

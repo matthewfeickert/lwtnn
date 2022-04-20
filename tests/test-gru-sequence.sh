@@ -14,7 +14,7 @@
 
 # Trained network to convert and test
 TARBALL=gru-sequence.tgz
-INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v5/${TARBALL}
+INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v9/${TARBALL}
 if [[ ${LWTNN_LOCAL_TEST_DATA+x} ]] ; then
     INPUT=${LWTNN_LOCAL_TEST_DATA}/${TARBALL}
 fi

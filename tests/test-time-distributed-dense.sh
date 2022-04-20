@@ -14,7 +14,7 @@
 
 # Trained network to convert and test
 TARBALL=time-distributed.tgz
-INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v4/${TARBALL}
+INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v9/${TARBALL}
 if [[ ${LWTNN_LOCAL_TEST_DATA+x} ]] ; then
     INPUT=${LWTNN_LOCAL_TEST_DATA}/${TARBALL}
 fi

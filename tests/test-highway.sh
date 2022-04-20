@@ -13,7 +13,7 @@
 # If to add another test you'll probably have to edit this
 
 # Trained network to convert and test
-INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v2.1/highway-net.tgz
+INPUT=https://github.com/lwtnn/lwtnn-test-data/raw/v9/highway-net.tgz
 ARCH=highway_test.json
 VARIABLES=highway_variables.json
 HDF5=highway_test.h5
